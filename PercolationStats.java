@@ -1,9 +1,3 @@
-/* *****************************************************************************
- *  Name:              Davron Usmonov
- *  Coursera User ID:  123456
- *  Last modified:     9/26/21
- **************************************************************************** */
-
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
 
